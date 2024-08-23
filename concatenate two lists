@@ -1,0 +1,10 @@
+a = ["M","na","i","Abhi"]
+b = ["y","me","s","Ram"]
+res = []
+for i in range(len(a)):
+    res.append(a[i]+b[i])
+print (res) 
+
+
+//output
+['My','name','is','AbhiRam']
